@@ -1,0 +1,20 @@
+AI-Knowledge-Retention-Tracker
+
+├── app.py
+├── requirements.txt
+
+├── templates
+│   ├── index.html
+│   ├── quiz.html
+│   └── dashboard.html
+
+├── static
+│   ├── style.css
+│   └── script.js
+
+├── ai
+│   ├── question_generator.py
+│   └── evaluator.py
+
+└── database
+    └── db.py
